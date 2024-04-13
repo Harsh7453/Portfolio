@@ -37,7 +37,7 @@ nav ? (
 <AiOutlineProject size={20} />
 <span className='pl-4'>Projects</span>
 </a>
-<a href='https://drive.google.com/file/d/1gA2B1kG6nKCaQTs4nFq8j1DtML-pLUXr/view?usp=sharing' className='w-[75%] flex justify-center items-center rounded-full shadow-lg bg-gray-400 shadow-gray-400 m-2 p-4 cursor-pointer hover:scale-110 ease-in duration-200'>
+<a href='https://drive.google.com/file/d/1TdMgx75ux8TGVlMG1fwDAtOj2yOHPUEt/view?usp=sharing' className='w-[75%] flex justify-center items-center rounded-full shadow-lg bg-gray-400 shadow-gray-400 m-2 p-4 cursor-pointer hover:scale-110 ease-in duration-200'>
  <BsPerson size={20} />
  <span className='pl-4'>Resume</span>
 </a>
@@ -61,7 +61,7 @@ nav ? (
         <a href="#projects" className='rounded-full shadow-lg bg-gray-100 shadow-gray-400 m-2 p-4 cursor-pointer hover:scale-110 ease-in duration-300'>
             <AiOutlineProject size={20}/>
         </a>
-        <a href="https://drive.google.com/file/d/1gA2B1kG6nKCaQTs4nFq8j1DtML-pLUXr/view?usp=sharing" className='rounded-full shadow-lg bg-gray-100 shadow-gray-400 m-2 p-4 cursor-pointer hover:scale-110 ease-in duration-300'>
+        <a href="https://drive.google.com/file/d/1TdMgx75ux8TGVlMG1fwDAtOj2yOHPUEt/view?usp=sharing" className='rounded-full shadow-lg bg-gray-100 shadow-gray-400 m-2 p-4 cursor-pointer hover:scale-110 ease-in duration-300'>
             <BsPerson size={20}/>
         </a>
         <a href="#contact" className='rounded-full shadow-lg bg-gray-100 shadow-gray-400 m-2 p-4 cursor-pointer hover:scale-110 ease-in duration-300'>
